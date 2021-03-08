@@ -1,0 +1,20 @@
+{
+  "name": "company_database",
+  "version": "1.0.0",
+  "description": "Command line application to manage a company's employees database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATXiceman512/company_database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ATXiceman512/company_database/issues"
+  },
+  "homepage": "https://github.com/ATXiceman512/company_database#readme"
+}
